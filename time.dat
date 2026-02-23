@@ -1,0 +1,14 @@
+# This is a dat file for my experiment data for time-complexity, so I can plot with gnuplot
+# first row is size of array N, second is 1 grandkid, third is two, last is 3 grandkids
+2      0          0        0
+4      0          0        0
+8      0          0        0
+16     0          0.0005   0.0002
+32     0          0.0005   0.0008
+64     0          0.002    0.0033
+128    0          0.04     0.0117
+256    0          0.16     0.05
+512    0          0.15     0.19
+1024   0.02       0.66     0.79
+2048   0.014      2.60     6.45
+4096   0.012      41.1     12.93
